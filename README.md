@@ -20,3 +20,19 @@ items you should try:
 
 
 [About me page](AboutMe.md)
+
+---
+# Tables
+
+| Name | Location | cost |
+| ---  | ---------|------|
+| gaming| pretty much anywhere| depends on the setup|
+|digital art| mostly at home| you can get a drawing tablet for as cheap as 30 dollars
+|Soccer | a nice field or any field really| it is pretty cheap all you need is a ball|
+| Table tennis| a table tennis table| a cheap table could go for like 160 dollars
+
+---
+# Pithy Quotes
+>The greatest glory in living lies not in never falling, but in rising every time we fall. -  *Nelson Mandela*
+
+>The way to get started is to quit talking and begin doing. - *Walt Disney*
